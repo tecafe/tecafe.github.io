@@ -259,7 +259,7 @@ body{
 	transform: translate(-50%, -50%);
 	width: 10px !important;
 	height: 10px !important;
-	background: var(--accent-color);
+	background: transparent;
 	border-radius: 50%;
 	pointer-events: none;
 	opacity:1 !important;
