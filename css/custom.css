@@ -243,15 +243,15 @@ body{
     color: white;
 }
 
-#magic-cursor{
+/* #magic-cursor{
 	position: absolute;
     width: 10px !important;
     height: 10px !important;
     pointer-events: none;
     z-index: 1000000;
-}
+} */
 
-#ball{
+/* #ball{
 	position: fixed;
 	display: block;
 	left: 0;
@@ -263,7 +263,7 @@ body{
 	border-radius: 50%;
 	pointer-events: none;
 	opacity:1 !important;
-}
+} */
 
 .preloader{
 	position: fixed;
